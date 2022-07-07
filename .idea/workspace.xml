@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ec0e47e-bfe6-4be8-9682-71bc8435ad6a" name="Default Changelist" comment="" />
+    <list default="true" id="1e7c3110-8d8e-4e1e-ab46-02df6930cd73" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="2BcP7QoNRuuQuOXBdih5soYYgFf" />
+  <component name="ProjectId" id="2BcZxGOson6mN74bt5eYngvuRWc" />
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -40,11 +33,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ec0e47e-bfe6-4be8-9682-71bc8435ad6a" name="Default Changelist" comment="" />
-      <created>1657202231929</created>
+      <changelist id="1e7c3110-8d8e-4e1e-ab46-02df6930cd73" name="Default Changelist" comment="" />
+      <created>1657207578517</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1657202231929</updated>
+      <updated>1657207578517</updated>
     </task>
     <servers />
   </component>
